@@ -2,9 +2,6 @@
 
 <p>Buscando mi reconversión laboral en el mundo de la tecnología</p>
 
-<p>
-<img src="https://avatars.githubusercontent.com/u/130688160?s=400&u=4c249b38781bbeb037a8f191c0bf4ceb4166d4fd&v=4" alt="Sergio Gacal" width="200" height="200"></p>  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sergiogacal/) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-blue?style=flat&logo=github)](https://github.com/SergioGacal) 
 
